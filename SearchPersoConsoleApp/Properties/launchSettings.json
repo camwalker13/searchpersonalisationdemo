@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchPersoConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "sarah@test.com"
+    }
+  }
+}
